@@ -1,0 +1,1 @@
+const aFunction = () => console.log("This is a Function");
